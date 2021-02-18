@@ -1,6 +1,6 @@
 # CS 360 - Systems Programming
 
-<h1> Assignment 3:  <p> count readable regular files of a path </p></h1>
+<h1> Assignment 3: <br>count readable regular files of a path</h1>
 
 02/17/2021
 
